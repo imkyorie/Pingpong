@@ -1,0 +1,15 @@
+/Users/kyorie/Projects/pingpong/pingpong/bin/Debug/net7.0/pingpong
+/Users/kyorie/Projects/pingpong/pingpong/bin/Debug/net7.0/pingpong.deps.json
+/Users/kyorie/Projects/pingpong/pingpong/bin/Debug/net7.0/pingpong.runtimeconfig.json
+/Users/kyorie/Projects/pingpong/pingpong/bin/Debug/net7.0/pingpong.dll
+/Users/kyorie/Projects/pingpong/pingpong/bin/Debug/net7.0/pingpong.pdb
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.csproj.AssemblyReference.cache
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.AssemblyInfoInputs.cache
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.AssemblyInfo.cs
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.csproj.CoreCompileInputs.cache
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.dll
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/refint/pingpong.dll
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.pdb
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/pingpong.genruntimeconfig.cache
+/Users/kyorie/Projects/pingpong/pingpong/obj/Debug/net7.0/ref/pingpong.dll
