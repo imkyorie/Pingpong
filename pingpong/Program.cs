@@ -53,39 +53,10 @@ namespace Pingpong
                     Console.SetCursorPosition(screenLength - 1, i + 1 + rightBarVector);
                     Console.WriteLine(rightBar);
 
-                    while (!Console.KeyAvailable)
-                    {
 
-                    }
-
-                    key = Console.ReadKey(true).Key;
-
-                    if (key == ConsoleKey.UpArrow)
-                    {
-                        rightBarVector++;
-                    }
-                    else if (key == ConsoleKey.DownArrow)
-                    {
-                        rightBarVector--;
-                    }
-                    else if (key == ConsoleKey.S)
-                    {
-                        leftBarVector++;
-                    }
-                    else if (key == ConsoleKey.X)
-                    {
-                        leftBarVector--;
-                    }
 
                 }
 
-                for (int j = 1; j < screenWidth; j++)
-                {
-                    Console.SetCursorPosition(0, j);
-                    Console.WriteLine(" ");
-                    Console.SetCursorPosition(screenLength - 1, j);
-                    Console.WriteLine(" ");
-                }
 
 
 
